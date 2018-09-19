@@ -1,5 +1,5 @@
 Integrasi with redux/flux is not working, and still learn about reactjs more..
-its my first projek use the reactjs, still see more tutorial about that.
+its my first projek use the reactjs, see more tutorial about that.
 
 enjoy !!
 
